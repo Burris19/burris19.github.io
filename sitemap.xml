@@ -329,6 +329,88 @@
      <changefreq>daily</changefreq>
     </url>
         
+    <url>
+     <loc>None/libro4/titulo2/capitulo2/</loc>
+     <lastmod>2015-06-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/libro4/titulo2/capitulo3/</loc>
+     <lastmod>2015-06-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/libro4/titulo2/capitulo4/</loc>
+     <lastmod>2015-06-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/libro4/titulo2/capitulo5/</loc>
+     <lastmod>2015-06-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/libro4/titulo2/capitulo6/</loc>
+     <lastmod>2015-06-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/libro4/titulo2/capitulo7/</loc>
+     <lastmod>2015-06-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/libro4/titulo2/capitulo8/</loc>
+     <lastmod>2015-06-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/libro4/titulo2/capitulo9/</loc>
+     <lastmod>2015-06-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/libro4/titulo2/capitulo10/</loc>
+     <lastmod>2015-06-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/libro4/titulo2/capitulo11/</loc>
+     <lastmod>2015-06-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/libro4/titulo2/capitulo12/</loc>
+     <lastmod>2015-06-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>None/libro4/titulo_unico/capitulo1/</loc>
+     <lastmod>2015-06-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/libro4/titulo_unico/capitulo2/</loc>
+     <lastmod>2015-06-01</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
     
 
 </urlset>
